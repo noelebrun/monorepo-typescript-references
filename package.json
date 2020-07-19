@@ -1,0 +1,11 @@
+{
+  "name": "monorepo-webpack",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}

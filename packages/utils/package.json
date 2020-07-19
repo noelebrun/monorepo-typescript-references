@@ -1,0 +1,14 @@
+{
+  "name": "@monorepo/utils",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "build"
+  ],
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
